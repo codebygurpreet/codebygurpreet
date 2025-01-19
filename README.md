@@ -1,6 +1,6 @@
 # 🌟 Hey there, wanderer of the web! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=codebygurpreet&color=cright-green&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=codebygurpreet&color=bright-green&style=plastic)
 
 🚀 **Innovative Developer | Open Source Enthusiast | Problem Solver**
 
