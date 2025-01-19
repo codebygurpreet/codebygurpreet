@@ -1,6 +1,7 @@
 # 🌟 Hey there, wanderer of the web! 👋
 
 🚀 **Innovative Developer | Open Source Enthusiast | Problem Solver** 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=codebygurpreet&color=brightgreen&style=flat)
 
 Glad to see you here! I'm Gurpreet Singh, a Software Developer with a strong passion for JavaScript and open-source.and open-source contributions. I love using technology to solve everyday problems and enjoy finding creative ways to improve. "With a knack for full-stack projects, I juggle coding with adventurous hikes 🥾, strategic chess matches ♟️, and savoring the perfect cup of coffee ☕ to keep life balanced and exciting."
