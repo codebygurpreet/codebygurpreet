@@ -23,7 +23,7 @@ Apart from the pinned repositories, I have built:
 🦠 COVID-19 Tracker (featured in newspapers, blogs)
 -->
 
-Tech Stack
+#Tech Stack
 
 I mostly work with JavaScript, specifically Node.js in the backend with AWS as the cloud and Kafka as the queuing system. Recently, I have been tinkering with GoLang.
 
