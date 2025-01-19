@@ -28,7 +28,6 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 ![JavaScript](https://camo.githubusercontent.com/6453965f3f4c526584dfdcd07b54605ebf2f501b5c6c46cbd6baba7ed02e80ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 ![Node.js](https://camo.githubusercontent.com/ee709b5f9fbc4cd8c7b35170a5631137210cba827cebba138a04fcf201a0f01f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![React](https://camo.githubusercontent.com/27af4e1937eee25179981c6d7e1a2cec6d1b00b4f7e0e13c1b54d53dbc22e406/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
-![Python](https://camo.githubusercontent.com/13cf304574073bb8a2b35d18e3d88adf7fe604c75ccbc70a02e905e5be6321f4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646374130423f6c6f676f3d707974686f6e2e696d67266c6f676f436f6c6f723d7768697465)
 
 <!-- # Open Source Initiatives
 During Hacktoberfest, I initiated a program aimed at helping beginners kickstart their journey into open-source, impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for #50DaysOfJavaScript, a community-led open-source initiative to enhance JavaScript skills to ace the next JS interviews. Please consider joining as a participant, mentor, or a community partner. -->
