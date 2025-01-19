@@ -25,7 +25,7 @@ Apart from the pinned repositories, I have built:
 # Tech Stack
 I mostly work with JavaScript, specifically Node.js in the backend with AWS as the cloud and Kafka as the queuing system. Recently, I have been tinkering with GoLang.
 
-(https://camo.githubusercontent.com/6453965f3f4c526584dfdcd07b54605ebf2f501b5c6c46cbd6baba7ed02e80ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b0
+![JavaScript](https://camo.githubusercontent.com/6453965f3f4c526584dfdcd07b54605ebf2f501b5c6c46cbd6baba7ed02e80ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b0
 
 
 
