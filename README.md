@@ -1,8 +1,33 @@
 # 🌟 Hey there, wanderer of the web! 👋
 
+🚀 **Innovative Developer | Open Source Enthusiast | Problem Solver** 
 ![Profile Views](https://komarev.com/ghpvc/?username=codebygurpreet&color=brightgreen&style=flat)
 
-🚀 **Innovative Developer | Open Source Enthusiast | Problem Solver**
+Glad to see you here! I'm Gurpreet Singh, a Software Developer with a strong passion for JavaScript and open-source.and open-source contributions. I love using technology to solve everyday problems and enjoy finding creative ways to improve. "With a knack for full-stack projects, I juggle coding with adventurous hikes 🥾, strategic chess matches ♟️, and savoring the perfect cup of coffee ☕ to keep life balanced and exciting."
+
+My journey also includes mentoring in sharing knowledge with the tech community.
+<!-- Featured blogs/articles
+📖 A Developer’s Story – Vinit Shahdeo
+🚀 Join Postman at Google Summer of Code 2023
+💻 If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram
+🌟 Vinit Shahdeo: From a GitHub User to a GitHub Star
+🧠 10 lessons I've learned as a Software Engineer at Postman -->
+
+<!-- Projects
+Apart from the pinned repositories, I have built:
+
+🛡️ Peerlist README Badges (included in Peerlist official tools)
+🔍 OpenAPI Web Search (part of GSoC at Postman)
+💧 Water Monitoring System (part of Rails Girls Summer Of Code)
+🦠 COVID-19 Tracker (featured in newspapers, blogs) -->
+
+Tech Stack
+I mostly work with JavaScript, specifically Node.js in the backend with AWS as the cloud and Kafka as the queuing system. Recently, I have been tinkering with GoLang.
+
+
+Feel free to connect with me to explore more about my work, or drop by [Your Preferred Contact, e.g., LinkedIn or Twitter] to say hi. Let's build something amazing together! 🚀
+
+
 
 ---
 
