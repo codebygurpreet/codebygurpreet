@@ -5,6 +5,7 @@
 Glad to see you here! I'm Gurpreet Singh, a Software Developer with a strong passion for JavaScript and open-source contributions. I love using technology to solve everyday problems and enjoy finding creative ways to improve. "With a knack for full-stack projects, I juggle coding with adventurous hikes 🥾, strategic chess matches ♟️, and savoring the perfect cup of coffee ☕ to keep life balanced and exciting."
 
 My journey also includes mentoring in sharing knowledge with the tech community.
+
 <!-- Featured blogs/articles
 📖 A Developer’s Story – Vinit Shahdeo
 🚀 Join Postman at Google Summer of Code 2023
@@ -22,7 +23,8 @@ Apart from the pinned repositories, I have built:
 🦠 COVID-19 Tracker (featured in newspapers, blogs)
 -->
 
-# Tech Stack
+Tech Stack
+
 I mostly work with JavaScript, specifically Node.js in the backend with AWS as the cloud and Kafka as the queuing system. Recently, I have been tinkering with GoLang.
 
 ![JavaScript](https://camo.githubusercontent.com/6453965f3f4c526584dfdcd07b54605ebf2f501b5c6c46cbd6baba7ed02e80ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
@@ -32,46 +34,16 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 <!-- # Open Source Initiatives
 During Hacktoberfest, I initiated a program aimed at helping beginners kickstart their journey into open-source, impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for #50DaysOfJavaScript, a community-led open-source initiative to enhance JavaScript skills to ace the next JS interviews. Please consider joining as a participant, mentor, or a community partner. -->
 
-<!-- # Let's connect!
-Explore my thoughts at vinitshahdeo.dev, and let's connect on 𝕏 (Twitter) and LinkedIn.
-Twitter Follow Website LinkedIn GitHub followers Blog Substack
--->
-
-
-
-## 🌐 Connect with Me
+Connect with Me 🌐 
+ 
+ let's connect on 𝕏 (Twitter) and LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-username)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
 
----
+Let's code, connect, and create awesome things together!
 
-## 🔧 Skills & Tools
-
-- **Languages**: Python, JavaScript, C++, etc.
-- **Frameworks**: React, Node.js, Express, etc.
-- **Tools**: Git, Docker, Figma, etc.
-- **Databases**: MongoDB, PostgreSQL, MySQL, etc.
-
----
-
-## 🚀 Projects
-
-### 🌟 [Project Name](link-to-project)
-Short description of the project and why it’s awesome.
-
-### 🔗 [Another Project Name](link-to-another-project)
-Short description of the project.
-
----
-
-## 💡 Fun Facts
-- I love exploring **[Your Interests, e.g., AI, Blockchain, Game Dev, etc.]**.
-- I enjoy contributing to **[Open Source, specific communities, etc.]**.
-- Outside of tech, I enjoy **[Your Hobbies, e.g., hiking, painting, etc.]**.
-
----
 
 ## 🤝 Support Me
 
