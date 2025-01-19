@@ -1,4 +1,4 @@
-# 🌟 Hey there, wanderer of the web! 👋
+# Hey there, wanderer of the web! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codebygurpreet&color=brightgreen&style=flat)
 
@@ -34,7 +34,7 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 <!-- # Open Source Initiatives
 During Hacktoberfest, I initiated a program aimed at helping beginners kickstart their journey into open-source, impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for #50DaysOfJavaScript, a community-led open-source initiative to enhance JavaScript skills to ace the next JS interviews. Please consider joining as a participant, mentor, or a community partner. -->
 
-# Connect with Me 🌐 
+# Let's Connect! 🌐 
  
 let's connect on 𝕏 (Twitter) and LinkedIn.
 
