@@ -23,7 +23,7 @@ Apart from the pinned repositories, I have built:
 🦠 COVID-19 Tracker (featured in newspapers, blogs)
 -->
 
-<h1>Tech Stack</h1>
+# Tech Stack
 
 I mostly work with JavaScript, specifically Node.js in the backend with AWS as the cloud and Kafka as the queuing system. Recently, I have been tinkering with GoLang.
 
@@ -34,9 +34,9 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 <!-- # Open Source Initiatives
 During Hacktoberfest, I initiated a program aimed at helping beginners kickstart their journey into open-source, impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for #50DaysOfJavaScript, a community-led open-source initiative to enhance JavaScript skills to ace the next JS interviews. Please consider joining as a participant, mentor, or a community partner. -->
 
-Connect with Me 🌐 
+# Connect with Me 🌐 
  
- let's connect on 𝕏 (Twitter) and LinkedIn.
+let's connect on 𝕏 (Twitter) and LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-username)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)
