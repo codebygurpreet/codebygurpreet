@@ -45,7 +45,7 @@ let's connect on 𝕏 (Twitter) and LinkedIn.
 Let's code, connect, and create awesome things together!
 
 
-## 🤝 Support Me
+# Support Me 🤝
 
 If you enjoy my work, feel free to:
 - ⭐ Star my repositories.
