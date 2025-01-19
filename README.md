@@ -39,7 +39,7 @@ During Hacktoberfest, I initiated a program aimed at helping beginners kickstart
 let's connect on 𝕏 (Twitter) and LinkedIn.
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
 
 Let's code, connect, and create awesome things together!
 
