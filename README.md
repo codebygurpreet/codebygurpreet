@@ -60,6 +60,9 @@ let's connect on 𝕏 [Twitter](https://x.com/) and [LinkedIn](https://in.linked
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
+![GitHub followers](https://img.shields.io/github/followers/codebygurpreet)
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
 
 Let's code, connect, and create awesome things together!
 
