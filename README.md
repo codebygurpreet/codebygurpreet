@@ -40,6 +40,17 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo-amazon-aws)
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=195637819" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=195637819&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @codebygurpreet" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=195637819&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 <!-- # Open Source Initiatives
 During Hacktoberfest, I initiated a program aimed at helping beginners kickstart their journey into open-source, impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for #50DaysOfJavaScript, a community-led open-source initiative to enhance JavaScript skills to ace the next JS interviews. Please consider joining as a participant, mentor, or a community partner. -->
 
